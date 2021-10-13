@@ -1,9 +1,11 @@
-## construção
- I'm a systems development technician, I currently work on backend development projects.
+## Hi, I'm Luiz de Souza
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
- connect with me
+🔭 today I'm work whith Backend
+🌱 I'm read partners and project python
+pronouns ele/dele
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
-(https://www.linkedin.com/in/luiz-de-souza-402694198)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizdesouza)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img align = "left" alt = "twitter" src = " https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white " />] (https://twitter.com/luizdeazuos?s=09 )
+
+
