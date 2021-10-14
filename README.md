@@ -15,6 +15,7 @@
  <img align="center" alt="Luiz-html5"height=30width"30"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  <img align="center" alt="Luiz-html5"height=40width"40"src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
  <img align="center" alt="Luiz-html5"height=40width"40"src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+ <img align="center" alt="Luiz-html5"height=50width"50"src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
  </div>
  
  
