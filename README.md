@@ -9,7 +9,7 @@
 ##                                                                                                                                              
   <div style"display:inline_block"<br>
  <img align="center" alt="Luiz-python"height=30width"40"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
- <img align="center" alt="Luiz-python"height=30width"40"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+ <img align="center" alt="Luiz-flask"height=30width"40"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
   </div>
  
  
