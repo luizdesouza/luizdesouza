@@ -12,9 +12,7 @@
  <img align="center" alt="Luiz-flask"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
  <img align="center" alt="Luiz-django"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
  <img align="center" alt="Luiz-postgres"height=40width"40"src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
- <img align="center" alt="Luiz-mongo"height=40width"40"src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
- <img align="center" alt="Luiz-docker"height=50width"50"src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
- </div>
+  </div>
  
  
                                                                                                                                               
