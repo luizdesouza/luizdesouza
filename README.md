@@ -11,6 +11,7 @@
  <img align="center" alt="Luiz-python"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
  <img align="center" alt="Luiz-flask"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
  <img align="center" alt="Luiz-django"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
+ <img align="center" alt="Luiz-bootstrap"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </div>
  
  
