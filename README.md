@@ -14,6 +14,8 @@
  <img align="center" alt="Luiz-bootstrap"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
  <img align="center" alt="Luiz-postgresql"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
  <img align="center" alt="Luiz-mongodb"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+ <img align="center" alt="Luiz-html"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="center" alt="Luiz-css"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  </div>
  
  
