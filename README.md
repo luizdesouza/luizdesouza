@@ -17,6 +17,12 @@
  <img align="center" alt="Luiz-html"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
  <img align="center" alt="Luiz-css"height=50width"50"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  </div>
+                                                                                                                                              
+##
+                                                                                                                                              
+<div>
+ <a href="www.linkedin.com/in/luiz-de-souza-402694198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>                                                                                                                                              
  
  
                                                                                                                                               
